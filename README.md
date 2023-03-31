@@ -5,7 +5,12 @@ Snake is a game in which a snake needs to explore an environment and catch the f
 - [Coding "Snake" in 4 min 30 sec](https://www.youtube.com/watch?v=xGmXxpIj6vs)
 - [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) (not really about Snake itself, but a pattern I tried to follow on the project)
 
-! [SNAKE GAME](https://drive.google.com/file/d/1kIqsNQfOGFvfJ9vA5omMCNIlKEJd1ynT/view?usp=drivesdk)
+👇👇👇
 
 
-https://photos.app.goo.gl/rFQV1qHMQWeS7LDdA
+ [OUTPUT](https://drive.google.com/file/d/1kIqsNQfOGFvfJ9vA5omMCNIlKEJd1ynT/view?usp=drivesdk)
+
+
+
+
+
