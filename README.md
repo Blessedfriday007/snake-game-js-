@@ -8,4 +8,4 @@ Snake is a game in which a snake needs to explore an environment and catch the f
 ! [SNAKE GAME](https://drive.google.com/file/d/1kIqsNQfOGFvfJ9vA5omMCNIlKEJd1ynT/view?usp=drivesdk)
 
 
-![alt text](http://DCIM/Screenshots/snakegame.jpg)
+![Device storage](http://DCIM/Screenshots/snakegame.jpg)
